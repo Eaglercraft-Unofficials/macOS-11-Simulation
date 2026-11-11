@@ -1,11 +1,11 @@
 {
-    "name": "Chrisbin's MacBook Pro",
-    "short_name": "Chrisbin's MacBook Pro",
+    "name": "macOS 11",
+    "short_name": "macOS 11",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Chrisbin's portfolio built as a web Simulation of macOS Big Sur.",
+    "description": "His photo built as a web Simulation of macOS Big Sur.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
