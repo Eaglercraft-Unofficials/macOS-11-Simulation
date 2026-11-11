@@ -1,11 +1,5 @@
 
-![ChrisHub Logo](docs/chrishubLogo.jpg)
-
-
-# Chrisbin's MacBook Pro
-
-Chrisbin’s MacBook Pro is a portfolio website created as a web Simulation of macOS Big Sur using Flutter web. The idea is to provide a glimpse at my personal MacBook Pro. The project shows the power of Flutter Web in action.
-
+Credits to
 
 ![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fchrisbinsunny.github.io%2Fchrishub)
 ![example workflow](https://github.com/chrisbinsunny/chrishub/actions/workflows/web.yml/badge.svg)
@@ -24,7 +18,7 @@ The project started as a minimal project and later took it shape into this.
 
 ## 🖥️ Demo
 
-Go here>>>> [View ChrisHub](https://chrisbinsunny.github.io/chrishub)
+Go here>>>> [View macOS](https://eaglercraft-unofficials.github.io/macOS-11-Simulation)
 
 <br/>
 
@@ -61,7 +55,7 @@ Please adhere to this project's `code of conduct`.
 
 MIT License
 
-Copyright (c) 2022 Chrisbin Sunny
+Copyright (c) 2022 Chrisbin Sunny, maybe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
